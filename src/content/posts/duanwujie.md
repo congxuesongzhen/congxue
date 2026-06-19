@@ -3,7 +3,7 @@ title: 端午节安康呀
 published: 2026-06-19
 description: 祝福
 tags: [日常]
-draft: flase
+draft: false
 ---
 不知道大家喜欢吃什么粽子，我感觉甜咸都好吃欸。
 ---
