@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Demo site",
 
 	// 站点 URL
-	site_url: "https://congxue.xyz",
+	site_url: "https://www.congxue.xyz",
 
 	// 站点描述
 	description:
