@@ -17,7 +17,7 @@ draft: false
 然后上下摆摆.
 
 ![像这样](./images/4d1a4abda4b3b9387e093c884b5defb9.png)
-[!NOTE] NOTE
+>[!NOTE] NOTE
 >在裁切后的音符上加上第一个字的元音，如ka a a
 
 而不是ka - - -(这个描述是不是有点抽象。。。)
@@ -25,7 +25,7 @@ draft: false
 ![这样](./images/56a130da3c8578699968be6e847eb476.png)
 在音头拉高
 ---
-[!TIP]tip
+>[!TIP]tip
 >可以在混音的时候选择ott压缩人声
 ---
 这样，我们就成功调出充满DECO味的miku啦
