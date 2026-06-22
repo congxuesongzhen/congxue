@@ -3,7 +3,7 @@ title: 怎么调出DECO味的初音未来？
 published: 2026-06-22
 pinned: true
 category: VOCALOD
-draft: flase
+draft: false
 ---
 ##**首先**准备一个无参工程##
 你可以自己扒谱或者使用他人制作的工程
