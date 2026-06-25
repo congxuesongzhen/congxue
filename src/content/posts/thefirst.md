@@ -1,7 +1,7 @@
 ---
 title: 网站建成啦！！！
 published: 2026-06-18
-tags: [Markdown, 博客, 开发]
+tags: [博客, 开发]
 category: hhh
 draft: false
 ---
