@@ -1,7 +1,7 @@
 ---
 title: 怎么调出DECO味的初音未来？
 published: 2026-06-22
-pinned: true
+pinned: false
 category: VOCALOD
 draft: false
 ---
