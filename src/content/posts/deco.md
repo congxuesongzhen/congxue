@@ -9,7 +9,7 @@ draft: false
 你可以自己扒谱或者使用他人制作的工程
 如：vsqx.top
 
-![无参](./images/2026-06-26 20-41-06.mp4)
+<vidio>./images/2026-06-26 20-41-06.mp4
 # 编辑音符
 >[!TIP]tip
 >2019年的deco*27调出来的miku音头明显变重，所以需要加重音头
@@ -28,6 +28,6 @@ draft: false
 >[!TIP]tip
 >可以在混音的时候选择ott压缩人声
 
-![成果](./images/mmexport1773542026063.mp4)
+<vidio>./images/mmexport1773542026063.mp4
 
 这样，我们就成功调出充满DECO味的miku啦喵
