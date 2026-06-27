@@ -27,5 +27,4 @@ draft: false
 >可以在混音的时候选择ott压缩人声
 
 <iframe width="100%" height="468" src="https://www.bilibili.com/video/BV1xxwKz2ET8/?spm_id_from=333.1387.homepage.video_card.click&vd_source=e11354cf9d8e424c750a1877db81b3fe=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" &autoplay=0> </iframe> 
-
 这样，我们就成功调出充满DECO味的miku啦喵
