@@ -43,7 +43,16 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 桌面背景图片（支持单张或多张随机）
 		// desktop: "assets/images/DesktopWallpaper/d1.avif",
 		desktop: [
-			"assets/images/DesktopWallpaper/d1.webp"
+			"assets/images/DesktopWallpaper/d1.webp",
+			"assets/images/DesktopWallpaper/card_325_trained.png",
+			"assets/images/DesktopWallpaper/card_470_trained.png",
+			"assets/images/DesktopWallpaper/card_762_normal.png",
+			"assets/images/DesktopWallpaper/card_762_trained.png",
+			"assets/images/DesktopWallpaper/card_1023_normal.png",
+			"assets/images/DesktopWallpaper/card_1023_trained.png",
+			"assets/images/DesktopWallpaper/card_1189_normal.png",
+			"assets/images/DesktopWallpaper/card_1222_normal.png",
+
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
@@ -141,7 +150,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 横幅图片轮播配置，仅在当配置多张图片时生效
 		carousel: {
 			// 是否启用横幅图片轮播；关闭时保持每次刷新随机显示一张
-			enable: false,
+			enable: true,
 			// 轮播切换间隔（毫秒）
 			interval: 5000,
 			// 是否允许用户通过控制面板切换横幅轮播
